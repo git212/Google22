@@ -1,7 +1,5 @@
 This is One.txt
 Updated by Developer
-<<<<<<< HEAD
 Bharat Learning Git
-=======
 Bharat Learning Git
->>>>>>> refs/remotes/origin/main
+
